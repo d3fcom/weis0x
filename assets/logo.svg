@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <style>
+    .title { font: bold 24px sans-serif; }
+    .subtitle { font: 18px sans-serif; }
+  </style>
+  <rect width="200" height="100" fill="#f0f0f0"/>
+  <text x="100" y="45" text-anchor="middle" class="title" fill="#333">MEME Coin</text>
+  <text x="100" y="70" text-anchor="middle" class="subtitle" fill="#666">Analyzer</text>
+  <path d="M30 50 L50 30 L70 50 L50 70 Z" fill="#ff6b6b"/>
+  <circle cx="150" cy="50" r="20" fill="#4ecdc4"/>
+</svg>
